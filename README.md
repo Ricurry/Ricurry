@@ -2,7 +2,6 @@
 <p align="center">
   <img src="poet.png" />
 
-<!-- Center Image --> 
+<!-- Add a github stats menu -->
 <p align="center">
-  <img src="poet.png" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ricurry&show_icons=true&theme=dracula" />
