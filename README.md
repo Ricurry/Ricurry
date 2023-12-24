@@ -13,3 +13,6 @@
 
 <p align="center">
  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001987.cdd2d90452df4a0a9afbea1aff04261b.1455" />
+
+<p align="center">
+  <img src="https://discord-readme-badge.vercel.app/api?id=1112219778711572531" />
